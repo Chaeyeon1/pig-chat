@@ -1,0 +1,11 @@
+pig/
+__pycache__/
+*.pyc
+.vscode/
+firebase_config.py
+
+# Firebase JSON 키 파일
+*.json
+
+# 환경 변수 파일
+.env
